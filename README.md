@@ -1,7 +1,7 @@
 # plugin_sdk
 
 > [!NOTE]
-> This repo is neither endorsed by nor affiliated with [@manongjohn](https://github.com/manongjohn)
+> This repo is not endorsed by or affiliated with [@manongjohn](https://github.com/manongjohn)
 
 OpenToonz Plugin SDK
 
